@@ -11,3 +11,15 @@ code {
   font-family: source-code-pro, Menlo, Monaco, Consolas, 'Courier New',
     monospace;
 }
+
+/* Top-level container elements to full screen size */
+#full-screen {
+  height: 100vh;
+}
+
+/* element to fill full height of parent */
+.fill-height {
+  height: 100%;
+}
+
+/* Material Ui Customizations */
