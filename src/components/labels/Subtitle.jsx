@@ -3,17 +3,9 @@ import React from 'react';
 
 const Subtitle = ({ className }) => (
   <Box className={className}>
-    <Grid container alignItems="center" justify="center">
-      <Grid item>
-        <h3>Web Sites - </h3>
-      </Grid>
-      <Grid item>
-        <h3>Web Applications - </h3>
-      </Grid>
-      <Grid item>
-        <h3>Mobile Apps</h3>
-      </Grid>
-    </Grid>
+    <h3>Web Sites</h3>
+    <h3>Web Applications</h3>
+    <h3>Mobile Apps</h3>
   </Box>
 );
 

@@ -18,6 +18,7 @@ const useStyles = makeStyles({
   subtitle: {
     maxWidth: '75%',
     alignSelf: 'center',
+    textAlign: 'center',
   },
 });
 
