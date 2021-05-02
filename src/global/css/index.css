@@ -12,14 +12,18 @@ code {
     monospace;
 }
 
-/* Top-level container elements to full screen size */
+h3 {
+  color: #8C8C8C;
+}
+
 #full-screen {
   height: 100vh;
 }
 
-/* element to fill full height of parent */
 .fill-height {
   height: 100%;
 }
 
-/* Material Ui Customizations */
+.test {
+  background-color: #444;
+}
